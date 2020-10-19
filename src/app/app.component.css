@@ -1,0 +1,11 @@
+.red {
+  color: red;
+}
+
+.bgRed {
+  background-color: maroon;
+}
+
+.required {
+  background-color: green;
+}
